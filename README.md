@@ -4,10 +4,6 @@ Application development to PD Soluções for a job interview
 This app uses ReactJS and ChatEngine.
 For a fast explanation about ChatEngine access this link: https://chatengine.io/docs
 
-## Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
