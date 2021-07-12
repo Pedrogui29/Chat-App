@@ -1,4 +1,4 @@
-# Code Comunnity
+# Chat APP
  
 Application development to PD Soluções for a job interview
 This app uses ReactJS and ChatEngine.
